@@ -1,0 +1,42 @@
+
+gcta64  --bfile /Cluster_Filespace/Marioni_Group/Rob/Neurology\ Proteins/GCTA-COJO/trial  --chr 17 --maf 0.01 --cojo-file /Cluster_Filespace/Marioni_Group/Rob/Inflammatory_Proteins/GCTA-COJO/CCL23/CCL23.ma --cojo-slct --cojo-actual-geno --out /Cluster_Filespace/Marioni_Group/Rob/Inflammatory_Proteins/GCTA-COJO/CCL23/CCL23
+
+
+gcta64  --bfile /Cluster_Filespace/Marioni_Group/Rob/Neurology\ Proteins/GCTA-COJO/trial  --chr 20 --maf 0.01 --cojo-file /Cluster_Filespace/Marioni_Group/Rob/Inflammatory_Proteins/GCTA-COJO/CST5/CST5.ma --cojo-slct --cojo-actual-geno --out /Cluster_Filespace/Marioni_Group/Rob/Inflammatory_Proteins/GCTA-COJO/CST5/CST5
+
+
+gcta64  --bfile /Cluster_Filespace/Marioni_Group/Rob/Neurology\ Proteins/GCTA-COJO/trial  --chr 4 --maf 0.01 --cojo-file /Cluster_Filespace/Marioni_Group/Rob/Inflammatory_Proteins/GCTA-COJO/CXCL5/CXCL5.ma --cojo-slct --cojo-actual-geno --out /Cluster_Filespace/Marioni_Group/Rob/Inflammatory_Proteins/GCTA-COJO/CXCL5/CXCL5
+
+
+gcta64  --bfile /Cluster_Filespace/Marioni_Group/Rob/Neurology\ Proteins/GCTA-COJO/trial  --chr 4 --maf 0.01 --cojo-file /Cluster_Filespace/Marioni_Group/Rob/Inflammatory_Proteins/GCTA-COJO/CXCL6/CXCL6.ma --cojo-slct --cojo-actual-geno --out /Cluster_Filespace/Marioni_Group/Rob/Inflammatory_Proteins/GCTA-COJO/CXCL6/CXCL6
+
+
+gcta64  --bfile /Cluster_Filespace/Marioni_Group/Rob/Neurology\ Proteins/GCTA-COJO/trial  --chr 4 --maf 0.01 --cojo-file /Cluster_Filespace/Marioni_Group/Rob/Inflammatory_Proteins/GCTA-COJO/FGF_5/FGF_5.ma --cojo-slct --cojo-actual-geno --out /Cluster_Filespace/Marioni_Group/Rob/Inflammatory_Proteins/GCTA-COJO/FGF_5/FGF_5
+
+
+gcta64  --bfile /Cluster_Filespace/Marioni_Group/Rob/Neurology\ Proteins/GCTA-COJO/trial  --chr 21 --maf 0.01 --cojo-file /Cluster_Filespace/Marioni_Group/Rob/Inflammatory_Proteins/GCTA-COJO/IL_10RB/IL_10RB.ma --cojo-slct --cojo-actual-geno --out /Cluster_Filespace/Marioni_Group/Rob/Inflammatory_Proteins/GCTA-COJO/IL_10RB/IL_10RB
+
+
+gcta64  --bfile /Cluster_Filespace/Marioni_Group/Rob/Neurology\ Proteins/GCTA-COJO/trial  --chr 5 --maf 0.01 --cojo-file /Cluster_Filespace/Marioni_Group/Rob/Inflammatory_Proteins/GCTA-COJO/IL_12B/IL_12B.ma --cojo-slct --cojo-actual-geno --out /Cluster_Filespace/Marioni_Group/Rob/Inflammatory_Proteins/GCTA-COJO/IL_12B/IL_12B
+
+
+gcta64  --bfile /Cluster_Filespace/Marioni_Group/Rob/Neurology\ Proteins/GCTA-COJO/trial  --chr 10 --maf 0.01 --cojo-file /Cluster_Filespace/Marioni_Group/Rob/Inflammatory_Proteins/GCTA-COJO/IL_15RA/IL_15RA.ma --cojo-slct --cojo-actual-geno --out /Cluster_Filespace/Marioni_Group/Rob/Inflammatory_Proteins/GCTA-COJO/IL_15RA/IL_15RA
+
+
+gcta64  --bfile /Cluster_Filespace/Marioni_Group/Rob/Neurology\ Proteins/GCTA-COJO/trial  --chr 2 --maf 0.01 --cojo-file /Cluster_Filespace/Marioni_Group/Rob/Inflammatory_Proteins/GCTA-COJO/IL_18R1/IL_18R1.ma --cojo-slct --cojo-actual-geno --out /Cluster_Filespace/Marioni_Group/Rob/Inflammatory_Proteins/GCTA-COJO/IL_18R1/IL_18R1
+
+
+gcta64  --bfile /Cluster_Filespace/Marioni_Group/Rob/Neurology\ Proteins/GCTA-COJO/trial  --chr 17 --maf 0.01 --cojo-file /Cluster_Filespace/Marioni_Group/Rob/Inflammatory_Proteins/GCTA-COJO/MCP_2/MCP_2.ma --cojo-slct --cojo-actual-geno --out /Cluster_Filespace/Marioni_Group/Rob/Inflammatory_Proteins/GCTA-COJO/MCP_2/MCP_2
+
+
+gcta64  --bfile /Cluster_Filespace/Marioni_Group/Rob/Neurology\ Proteins/GCTA-COJO/trial  --chr 11 --maf 0.01 --cojo-file /Cluster_Filespace/Marioni_Group/Rob/Inflammatory_Proteins/GCTA-COJO/MMP_1/MMP_1.ma --cojo-slct --cojo-actual-geno --out /Cluster_Filespace/Marioni_Group/Rob/Inflammatory_Proteins/GCTA-COJO/MMP_1/MMP_1
+
+
+gcta64  --bfile /Cluster_Filespace/Marioni_Group/Rob/Neurology\ Proteins/GCTA-COJO/trial  --chr 11 --maf 0.01 --cojo-file /Cluster_Filespace/Marioni_Group/Rob/Inflammatory_Proteins/GCTA-COJO/MMP_10/MMP_10.ma --cojo-slct --cojo-actual-geno --out /Cluster_Filespace/Marioni_Group/Rob/Inflammatory_Proteins/GCTA-COJO/MMP_10/MMP_10
+
+
+gcta64  --bfile /Cluster_Filespace/Marioni_Group/Rob/Neurology\ Proteins/GCTA-COJO/trial  --chr 6 --maf 0.01 --cojo-file /Cluster_Filespace/Marioni_Group/Rob/Inflammatory_Proteins/GCTA-COJO/TNFB/TNFB.ma --cojo-slct --cojo-actual-geno --out /Cluster_Filespace/Marioni_Group/Rob/Inflammatory_Proteins/GCTA-COJO/TNFB/TNFB
+
+gcta64  --bfile /Cluster_Filespace/Marioni_Group/Rob/Neurology\ Proteins/GCTA-COJO/trial  --chr 17 --maf 0.01 --cojo-file /Cluster_Filespace/Marioni_Group/Rob/Inflammatory_Proteins/GCTA-COJO/TWEAK/TWEAK.ma --cojo-slct --cojo-actual-geno --out /Cluster_Filespace/Marioni_Group/Rob/Inflammatory_Proteins/GCTA-COJO/TWEAK/TWEAK
+
+gcta64  --bfile /Cluster_Filespace/Marioni_Group/Rob/Neurology\ Proteins/GCTA-COJO/trial  --chr 1 --maf 0.01 --cojo-file /Cluster_Filespace/Marioni_Group/Rob/Inflammatory_Proteins/GCTA-COJO/MCP_4/MCP_4.ma --cojo-slct --cojo-actual-geno --out /Cluster_Filespace/Marioni_Group/Rob/Inflammatory_Proteins/GCTA-COJO/MCP_4/MCP_4

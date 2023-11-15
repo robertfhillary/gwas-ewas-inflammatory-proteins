@@ -1,0 +1,16 @@
+
+cd /Inputs_For_GWAS/
+
+FILES=(*) 
+## First 15 proteins
+for i in ${FILES[@]:0:15}
+do 
+for x in {1..22} 
+do 
+data=/Cluster_Filespace/Marioni_Group/Rob/Inflammatory_Proteins/Inputs_For_GWAS/$i/$i_res.dat
+pedi=/Cluster_Filespace/Marioni_Group/Rob/Inflammatory_Proteins/Inputs_For_GWAS/$i/$i_res.ped
+info=/GWAS_Source/GWAS_Data/LBC_36/1000G/Data/CHR${x}_results.info; dose=/GWAS_Source/GWAS_Data/LBC_36/1000G/Data/CHR${x}_results.dose 
+mach2qtl-ext -d $data -p $pedi -i $info --dosefile $dose --samplesize > /Cluster_Filespace/Marioni_Group/Rob/Inflammatory_Proteins/Inputs_For_GWAS/$i/$i_output_chr${x}.out
+done
+done
+
